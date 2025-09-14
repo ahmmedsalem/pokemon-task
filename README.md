@@ -2,6 +2,10 @@
 
 A React application for browsing Pokemon using the PokeAPI. Built with React, TypeScript, and Tailwind CSS.
 
+## 🔗 Live Demo
+
+**Preview**: https://ihorizon-task.vercel.app/
+
 ## Features
 
 - Browse Pokemon list with pagination
