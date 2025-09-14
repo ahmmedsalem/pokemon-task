@@ -4,7 +4,7 @@ A React application for browsing Pokemon using the PokeAPI. Built with React, Ty
 
 ## 🔗 Live Demo
 
-**Preview**: https://ihorizon-task.vercel.app/
+**Preview**: https://pokemon-task-demo.vercel.app/
 
 ## Features
 
